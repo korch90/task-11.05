@@ -1,0 +1,101 @@
+/*texoho1419@iopmail.com*/
+
+
+.header {
+    width: 100%;
+
+
+
+}
+
+
+.wrapper {
+
+    background-image: url(../images/Layer_12.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    width: 100%;
+    height: 454px;
+    /*  box-sizing: border-box;*/
+/*    max-width: 1356px;*/
+    
+
+
+    background-size: cover
+}
+
+.logo {
+
+    color: aliceblue;
+    margin: auto;
+
+
+}
+
+.nav {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+
+}
+
+.nav_link_wrapper {
+    width: 473px;
+    height: 10px;
+    color: #8b8b8b;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-transform: uppercase;
+
+    color: #818181;
+    display: flex;
+    justify-content: space-between
+}
+
+.nav_search_wrapper {}
+
+.nav__link:hover {
+color: chartreuse;
+    text-decoration-line: none;
+    
+
+
+}
+
+.nav_wrapper {
+    width: 100%;
+    height: 80px;
+    display: flex;
+
+}
+
+
+.wrapper_header_top_logo_contacts {
+    width: 100%;
+    background-image: url(../images/Layer_1.png);
+    height: 59px;
+    display: flex
+}
+
+.header.top {}
+
+
+.header_top_contacts {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    width: 200px
+}
+
+.header_top_logo_contacts {
+    width: 80%;
+
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin: auto
+}
