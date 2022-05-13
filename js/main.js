@@ -28,7 +28,7 @@
 // let showSum=function(q,n){
 // return (n==1)? 1: n*showSum(q-1,n)
 // }
-// console.log(showSum(5,2))
+// console.log(showSum(5,2))  /// не доробив рекурсію
 
 // Task3
 //  let a=prompt("first number")
@@ -49,3 +49,4 @@
 // }
 // func(a,b)
 // console.log(arr)  //////перше число стрінга????
+
